@@ -1,2 +1,2 @@
 # LoodOS-android
-the android rom development of LoodOS
+here you can find all of lood's files
